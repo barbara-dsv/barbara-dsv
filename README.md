@@ -13,4 +13,5 @@ Iniciei na programação através de um curso introdutório de JavaScript utiliz
 ![React](https://img.shields.io/badge/React-282C34?logo=react)
 ![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?&logo=postgresql&logoColor=white)
 
