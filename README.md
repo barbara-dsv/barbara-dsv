@@ -1,7 +1,6 @@
 # Olá, pessoal!  :nerd_face:
 
-Meu nome é Bárbara Lourenço Tavares. Atualmente sou estudante de desenvolvimento de software na [@cubosacademy](https://cubos.academy/) desde junho de 2023. 
-Iniciei na programação através de um curso introdutório de JavaScript utilizando o React no começo do ano de 2023, me apaixonei pela área e logo em seguida comecei o curso na Cubos Academy. 
+Meu nome é Bárbara Lourenço Tavares, sou desenvolvedora FullStack.
 
 ### Redes Sociais
 [![Linkedin](https://img.shields.io/badge/barbara%20lourenco%20tavares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-dev/)
