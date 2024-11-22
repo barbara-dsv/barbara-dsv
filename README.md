@@ -1,4 +1,4 @@
-# Olá, pessoal!  :nerd_face:
+# Olá, devs!  :nerd_face:
 
 Meu nome é Bárbara Lourenço Tavares, sou desenvolvedora FullStack.
 
